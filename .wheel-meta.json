@@ -1,0 +1,22 @@
+{
+  "wheel_id": 960,
+  "structure": "chain",
+  "slug": "theseocompanybrisbane-117",
+  "project": "seo-services-brisbane-planning-guide-9512568ec675daef80af06640b",
+  "parent_t1_ref": "theseocompanybrisbane-159",
+  "node_role": "feeder",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane planning guide",
+  "intended_url": "https://aumedia.neocities.org/seo-services-brisbane-planning-guide-9512568ec675daef80af06640b/",
+  "tier": "T2",
+  "writeback_nonce": "a2537b846ea3fe68",
+  "links": [
+    {
+      "target_url": "http://seo-services-brisbane-signs-you-need-a63b223c2cd4e9d1ddf61bc712.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Seo Services Brisbane Signs You Need: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
